@@ -79,7 +79,7 @@ buildaccess.es@lab2learn.com.br
 
 🔒 Contraseña
 ```
-Lab2learn#2025
+Lab2learn#2025.ES
 ```
 
 *HANDS-ON*
