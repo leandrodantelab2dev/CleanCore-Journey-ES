@@ -40,8 +40,6 @@ Las sesiones se realizarán a las **18h (hora de Brasil)** en los siguientes dí
 - 🔴 **Día 2 - 06/08:** [Ver sesión](https://www.youtube.com/watch?v=w5Pm_BZltMY&ab_channel=LAB2LEARN%F0%9F%9A%80%7CSAPBTP)  
 - 🔴 **Día 3 - 07/08:** [Ver sesión](https://www.youtube.com/watch?v=q-C6cBB5Sg4&ab_channel=LAB2LEARN%F0%9F%9A%80%7CSAPBTP)
 
----
-
 ## 🎓 Certificado de participación
 
 Para recibir tu **certificado 100% gratuito** de Lab2Learn, es **muy importante participar EN VIVO** en las tres sesiones.
@@ -52,6 +50,10 @@ Para recibir tu **certificado 100% gratuito** de Lab2Learn, es **muy importante 
 Con eso, recibirás tu certificado oficial de esta jornada directamente en tu correo.
 
 ¡Nos vemos en vivo!
+
+---
+
+
 
 ## 📂 Contenidos del repositorio
 
