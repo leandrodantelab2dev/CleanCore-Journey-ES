@@ -16,22 +16,22 @@ Las sesiones se realizarán a las **18h (hora de Brasil)** en los siguientes dí
 
 | País                | Hora Local |
 |---------------------|------------|
-| 🇧🇷 Brasil           | 18:00      |
-| 🇲🇽 México           | 16:00      |
+| 🇧🇷 Brasil (Brasilia) | 18:00      |
+| 🇦🇷 Argentina        | 18:00      |
+| 🇺🇾 Uruguay          | 18:00      |
+| 🇵🇾 Paraguay         | 17:00      |
+| 🇧🇴 Bolivia          | 17:00      |
+| 🇨🇱 Chile            | 17:00      |
+| 🇻🇪 Venezuela        | 17:00      |
 | 🇨🇴 Colombia         | 16:00      |
 | 🇵🇪 Perú             | 16:00      |
 | 🇪🇨 Ecuador          | 16:00      |
-| 🇧🇴 Bolivia          | 17:00      |
-| 🇵🇾 Paraguay         | 17:00      |
-| 🇨🇱 Chile            | 17:00      |
-| 🇦🇷 Argentina        | 18:00      |
-| 🇺🇾 Uruguay          | 18:00      |
-| 🇻🇪 Venezuela        | 17:00      |
+| 🇲🇽 México (CDMX)     | 15:00      |
 | 🇨🇷 Costa Rica       | 15:00      |
-| 🇬🇹 Guatemala        | 15:00      |
-| 🇳🇮 Nicaragua        | 15:00      |
-| 🇭🇳 Honduras         | 15:00      |
 | 🇸🇻 El Salvador      | 15:00      |
+| 🇬🇹 Guatemala        | 15:00      |
+| 🇭🇳 Honduras         | 15:00      |
+| 🇳🇮 Nicaragua        | 15:00      |
 | 🇪🇸 España (Madrid)  | 23:00      |
 
 ## 📺 Enlaces a las transmisiones en vivo
