@@ -66,6 +66,6 @@ Este espacio contiene todos los recursos utilizados en las clases:
 
 ---
 
-## 📝 Información adicional
+# 📝 Datos Hands-on!
 
-*(Aquí puedes agregar detalles sobre los instructores, comunidad, desafíos, próximos eventos, etc.)*
+*HANDS-ON*
