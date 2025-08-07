@@ -84,4 +84,17 @@ buildaccess.es@lab2learn.com.br
 Lab2learn#2025.ES
 ```
 
+##Formulas
+
+Creacion del Producto:
+Codigo:
+```
+NUMBER(appVars.codigo)
+```
+Activo:
+```
+
+```
+
+
 *HANDS-ON*
